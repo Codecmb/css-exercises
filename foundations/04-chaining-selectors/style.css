@@ -1,16 +1,13 @@
 
-.avatar .proportioned{
+.avatar.proportioned{
   width: 300px;
-  height: 200%;
-
+  height: 150%;
 }
 
-.avatar .distorted{
-  width: 300px;
-  height: 600px;
-
-
-
+.avatar.distorted{
+  width: 200px;
+  height: 400px;
 }
+
 
 
